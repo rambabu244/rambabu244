@@ -1,4 +1,4 @@
-![logo](https://github.com/rambabu244/Rambabu-/blob/main/Ram%20Modern%20Banner.png)
+![logo](https://github.com/rambabu244/Rambabu-/blob/main/Ram%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Rambabu</h1>
 <h3 align="center">I am passionate in JAVA FullStack Development</h3>
 
